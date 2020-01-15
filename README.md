@@ -1,5 +1,9 @@
 # redis-cluster-sentinel-docker-stand-alone
 
+## 注意
+自用，redis版本为3.2.12
+
+## 运行步骤
 先修改好docker-compose.yml 文件中ip、端口、密码、以及主机名等信息
 
 ```shell
